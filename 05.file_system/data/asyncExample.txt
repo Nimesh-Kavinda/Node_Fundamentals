@@ -1,0 +1,2 @@
+This is an asynchronously written file.
+another line appended asynchronously.
